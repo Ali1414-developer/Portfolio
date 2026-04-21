@@ -13,6 +13,10 @@ Modular Codebase – Organized and maintainable structure for scalability and fu
 Performance-Oriented – Lightweight implementation with efficient loading behavior
 UI of my project at the web interface look like that:
 ![Portfolio Preview](Assets/home.png)
+![Portfolio Preview](assets/contact.png)
+![Portfolio Preview](assets/certificates.png)
+![Portfolio Preview](assets/About.png)
+![Portfolio Preview](assets/End.png)
 Technology Stack
 
 The project is built using modern web development technologies:
