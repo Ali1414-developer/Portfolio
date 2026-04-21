@@ -35,7 +35,7 @@ Project Structure
 To run this project locally:
 Clone the repository
 
-git clone 
+git clone https://github.com/Ali1414-developer/Portfolio 
 
 Navigate to the project directory
 
