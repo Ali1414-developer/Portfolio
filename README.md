@@ -50,34 +50,16 @@ cd your-repository
 Open the project
 Launch index.html in your preferred browser
 Alternatively, use a local development server for better performance
-Live Deployment
 
-A live version of the portfolio can be accessed here:
-https://your-portfolio-link.com
-
-Future Enhancements
-
-Planned improvements include:
-
-Integration of a backend-enabled contact system
-Addition of a blog or technical writing section
-Advanced animations and micro-interactions
-SEO optimization and performance tuning
 Contribution
-
 While this is a personal project, constructive feedback and suggestions are appreciated. Feel free to open issues or submit pull requests where relevant.
 
-Contact
-
+Contact me:
 For professional inquiries or collaboration opportunities:
 
-Email: your-email@example.com
-LinkedIn: https://linkedin.com/in/your-profile
-Portfolio: https://your-portfolio-link.com
-License
+Email: alirazabaloch4173@gmail.com
+LinkedIn: https://www.linkedin.com/in/ali-raza-5b1728352/
 
 This project is open-source and available for reference and learning purposes.
-
 Acknowledgment
-
 This portfolio reflects my ongoing development as a software engineer, with continuous improvements aligned to industry best practices.
