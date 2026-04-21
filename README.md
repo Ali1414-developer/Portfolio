@@ -31,18 +31,11 @@ Project Structure
 ├── js/              # JavaScript logic and interactivity
 ├── index.html       # Application entry point
 └── README.md        # Project documentation
-Preview
-
-Below is a visual representation of the portfolio interface:
-
-![Portfolio Preview](assets/Todo.png)
-Installation and Usage
 
 To run this project locally:
-
 Clone the repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone 
 
 Navigate to the project directory
 
