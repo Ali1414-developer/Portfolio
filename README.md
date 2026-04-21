@@ -12,7 +12,7 @@ Professional UI/UX Design – Emphasis on usability, readability, and modern des
 Modular Codebase – Organized and maintainable structure for scalability and future enhancements
 Performance-Oriented – Lightweight implementation with efficient loading behavior
 UI of my project at the web interface look like that:
-![Portfolio Preview](assets/Todo.png)
+![Portfolio Preview](Assets/home.png)
 Technology Stack
 
 The project is built using modern web development technologies:
